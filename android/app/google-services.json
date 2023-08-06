@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801475107456",
+    "project_id": "soft-ecommerce",
+    "storage_bucket": "soft-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801475107456:android:08436648e47251b82e2465",
+        "android_client_info": {
+          "package_name": "com.kiran.soft_ecommerce.soft_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801475107456-ds8l2e7kjpn1je4qp03e5lc8vi05lunp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwFSoapmHaKMgHIDWnFcQKwhzlUn_V7FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801475107456-ds8l2e7kjpn1je4qp03e5lc8vi05lunp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=1-8qoWWxO1M&t=299s&ab_channel=Technotherapist
+
+1. install firebase cli
+- npm install -g firebase-tools
+
+2. firebase login
+- firebase login
+
+NOTE: 
+- this might not work in powershell so use terminal or bash
+
+3. dart pub global activate flutterfire_cli
+4. flutterfire configure --project=soft-ecommerce
+
+
+Platform  Firebase App Id
+    android   1:801475107456:android:08436648e47251b82e2465
+    ios       1:801475107456:ios:0b116c8388bea7ce2e2465
+
+dependencies
+1. firebase_core
