@@ -14,7 +14,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "801475107456-ds8l2e7kjpn1je4qp03e5lc8vi05lunp.apps.googleusercontent.com",
+          "client_id": "801475107456-u4ri5pde00o9k01evrjqkdi0aji5vmog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiran.soft_ecommerce.soft_ecommerce",
+            "certificate_hash": "37a45fb1bdd34244721a2307e2feda77f3b19d2e"
+          }
+        },
+        {
+          "client_id": "801475107456-mo47gm269fejgp3tq9reud5sg656cbeb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -29,6 +37,13 @@
             {
               "client_id": "801475107456-ds8l2e7kjpn1je4qp03e5lc8vi05lunp.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "801475107456-g7kchk3lgaetqfqhkd20u1hdp8h6dg17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiran.softecommerce.softEcommerce"
+              }
             }
           ]
         }

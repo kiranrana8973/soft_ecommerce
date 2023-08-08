@@ -17,5 +17,13 @@ Platform  Firebase App Id
     android   1:801475107456:android:08436648e47251b82e2465
     ios       1:801475107456:ios:0b116c8388bea7ce2e2465
 
+--------------Generate SHA1--------------
+MAC : keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
+Windows : keytool -list -v -keystore %USERPROFILE%\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
+ 
+SHA1 and SHA256:
+SHA1: 37:A4:5F:B1:BD:D3:42:44:72:1A:23:07:E2:FE:DA:77:F3:B1:9D:2E
+SHA256: A9:02:19:44:87:EA:86:EB:4F:09:4E:5C:54:0A:BE:D1:47:B6:BF:61:71:AF:86:33:4A:06:81:24:9A:6B:A1:0F
+
 dependencies
 1. firebase_core
