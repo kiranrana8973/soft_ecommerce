@@ -63,7 +63,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '801475107456',
     projectId: 'soft-ecommerce',
     storageBucket: 'soft-ecommerce.appspot.com',
-    iosClientId: '801475107456-g7kchk3lgaetqfqhkd20u1hdp8h6dg17.apps.googleusercontent.com',
+    iosClientId:
+        '801475107456-g7kchk3lgaetqfqhkd20u1hdp8h6dg17.apps.googleusercontent.com',
     iosBundleId: 'com.kiran.softecommerce.softEcommerce',
   );
 }
